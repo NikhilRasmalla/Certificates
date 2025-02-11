@@ -108,3 +108,133 @@
 **Link:** [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_i22au33kd84znwEEt_1712347545341_completion_certificate.pdf)  
 
 ---
+
+### **Fortinet Certified Associate Cybersecurity**  
+**Issuer:** Fortinet  
+**Issued:** Oct 2023  
+**Link:** [View Certificate](https://www.credly.com/badges/c9146f29-48cd-442a-a94f-0241291276da/public_url)  
+
+---
+
+### **Fortinet FortiGate 7.4 Operator**  
+**Issuer:** Fortinet  
+**Issued:** Oct 2023  
+**Link:** [View Certificate](https://www.credly.com/badges/74ccc500-fa2f-4a97-82b3-42ef6a959e30/public_url)  
+
+---
+
+### **Oracle Cloud Infrastructure 2023 Certified AI Foundations Associate**  
+**Issuer:** Oracle  
+**Issued:** Oct 2023  
+**Credential ID:** 304464189OCI23AIFCA  
+**Link:** [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A13802F181FA471862B4C0099E2CA6C9A4AEE2ECD747EB874AB35B2C70C38BE9)  
+
+---
+
+### **Cybersecurity Fundamentals**  
+**Issuer:** IBM  
+**Issued:** Aug 2023  
+**Link:** [View Certificate](https://www.credly.com/badges/11ea959e-d1a7-43a0-9051-afcda44fd7fe)  
+
+---
+
+### **Enterprise Design Thinking - Co-Creator**  
+**Issuer:** IBM  
+**Issued:** Aug 2023  
+**Link:** [View Certificate](https://www.credly.com/badges/69279143-1854-46d3-adb3-07fad2041d81)  
+
+---
+
+### **Enterprise Design Thinking - Practitioner**  
+**Issuer:** IBM  
+**Issued:** Aug 2023  
+**Link:** [View Certificate](https://www.credly.com/badges/4171e85a-9e48-4d93-8a48-ce88942cdd68)  
+
+---
+
+### **Enterprise Design Thinking - Team Essentials for AI**  
+**Issuer:** IBM  
+**Issued:** Aug 2023  
+**Link:** [View Certificate](https://www.credly.com/badges/7eb33829-c3b6-4c6e-bd08-79092a81e375)  
+
+---
+
+### **Introduction to High Performance Computing with Python 3**  
+**Issuer:** MindLuster  
+**Issued:** Aug 2023  
+**Credential ID:** 9264971551  
+**Link:** [View Certificate](https://www.mindluster.com/student/certificate/9264971551)  
+
+---
+
+### **LFC104 - Ethics for Open Source Development**  
+**Issuer:** The Linux Foundation  
+**Issued:** Aug 2023  
+**Credential ID:** LF-rk5orfreny  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-0b2e499d-38b2-45fe-941c-ca575b1d474b-certificate.pdf)  
+
+---
+
+### **LFC105 - Antitrust Laws and OSS Project Management**  
+**Issuer:** The Linux Foundation  
+**Issued:** Aug 2023  
+**Credential ID:** LF-jk0231n2oj  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-4f8cd8d8-0f24-4e5d-98cd-aa458822a2ed-certificate.pdf)  
+
+---
+
+### **LFC108 - Cybersecurity Essentials**  
+**Issuer:** The Linux Foundation  
+**Issued:** Aug 2023  
+**Credential ID:** LF-j4pf18tymt  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-91ce4226-356f-430d-99d0-585efdce2fb2-certificate.pdf)  
+
+---
+
+### **LFC110 - Fundamentals of Professional Open Source Management**  
+**Issuer:** The Linux Foundation  
+**Issued:** Aug 2023  
+**Credential ID:** LF-gidika1zyb  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-b493d5cd-9d58-471f-8ce4-f5bda2e3b5f3-certificate.pdf)  
+
+---
+
+### **LFC193 - Introduction to Open Source License Compliance Management**  
+**Issuer:** The Linux Foundation  
+**Issued:** Aug 2023  
+**Credential ID:** LF-ug93fe5j59  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-6ae2d475-7385-45ca-8c00-83677855873b-certificate.pdf)  
+
+---
+
+### **LFD116 - Software Engineering Basics for Embedded Systems**  
+**Issuer:** The Linux Foundation  
+**Issued:** Aug 2023  
+**Credential ID:** LF-vsnepj4bja  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-832c4f5c-6ac7-4188-ac74-ca0856ad7bef-certificate.pdf)  
+
+---
+
+### **LFD121 - Developing Secure Software**  
+**Issuer:** The Linux Foundation  
+**Issued:** Aug 2023  
+**Credential ID:** LF-pyjpownast  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-23b04df7-171e-4b5b-9de6-feafc7815624-certificate.pdf)  
+
+---
+
+### **LFS145 - Introduction to Protocol Buffers**  
+**Issuer:** The Linux Foundation  
+**Issued:** Aug 2023  
+**Credential ID:** LF-wc6n1spwst  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-403177e3-d42f-432b-ae9c-94b6e26e8e87-certificate.pdf)  
+
+---
+
+### **LFS169 - Introduction to GitOps**  
+**Issuer:** The Linux Foundation  
+**Issued:** Aug 2023  
+**Credential ID:** LF-kc47e8640q  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-8ea24fd2-9366-41db-acb7-2eaefdbcfc1a-certificate.pdf)  
+
+
