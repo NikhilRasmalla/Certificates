@@ -237,4 +237,334 @@
 **Credential ID:** LF-kc47e8640q  
 **Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-8ea24fd2-9366-41db-acb7-2eaefdbcfc1a-certificate.pdf)  
 
+---
+
+### **Oracle Cloud Data Management 2023 Certified Foundations Associate**  
+**Issuer:** Oracle  
+**Issued:** Aug 2023  
+**Credential ID:** 304464189OCDMF2023  
+**Link:** [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DA635861A8F23B07E44B350BE6619336337471AFD58DADFAB9C6B921CFCD37E5)  
+
+---
+
+### **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**  
+**Issuer:** Oracle  
+**Issued:** Aug 2023  
+**Credential ID:** 304464189OCIF2023CA  
+**Link:** [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DA0518B24D7214916CCFBCDD45A55281DF764C794B922A343298D4288DD40E74)  
+
+---
+
+### **Digital Forensics**  
+**Issuer:** The Open University  
+**Issued:** Jul 2023  
+**Link:** [View Certificate](https://www.open.edu/openlearn/blocks/ocwstatement/statement.php?id=1698)  
+
+---
+
+### **Fortinet Certified Fundamentals Cybersecurity**  
+**Issuer:** Fortinet  
+**Issued:** Jul 2023 · **Expires:** Jul 2025  
+**Link:** [View Certificate](https://www.credly.com/badges/63a08dc5-a817-421d-a2b6-1a55eb1f634e/public_url)  
+
+---
+
+### **Fortinet NSE Exam - Getting Started in Cybersecurity 1.0**  
+**Issuer:** Fortinet  
+**Issued:** Jul 2023  
+**Link:** [View Certificate](https://www.credly.com/badges/fef13213-353d-467b-bc58-ffd9a586e6ee/public_url)  
+
+---
+
+### **Fortinet NSE Exam - Introduction to the Threat Landscape 1.0**  
+**Issuer:** Fortinet  
+**Issued:** Jul 2023  
+**Link:** [View Certificate](https://www.credly.com/badges/717f93c4-7811-4ae6-b5c4-c89ca0e61f44/public_url)  
+
+---
+
+### **Fortinet Network Security Expert Level 1: Certified Associate**  
+**Issuer:** Fortinet  
+**Issued:** Jul 2023 · **Expires:** Jul 2025  
+**Credential ID:** QzdkQUGKjS  
+**Link:** [View Certificate](https://training.fortinet.com/badges/badge.php?hash=dfdcd3fa66c93fc2ac980cbddc01266d9584972f)  
+
+---
+
+### **Fortinet Network Security Expert Level 2: Certified Associate**  
+**Issuer:** Fortinet  
+**Issued:** Jul 2023 · **Expires:** Jul 2025  
+**Credential ID:** FmT0qQ6MiY  
+**Link:** [View Certificate](https://training.fortinet.com/badges/badge.php?hash=73654f09091cb74c1ab3d9751763cb62cfa6285d)  
+
+---
+
+### **Fortinet Network Security Expert Level 3: Certified Associate**  
+**Issuer:** Fortinet  
+**Issued:** Jul 2023 · **Expires:** Jul 2025  
+**Credential ID:** rNndZ2F4kM  
+**Link:** [View Certificate](https://training.fortinet.com/badges/badge.php?hash=461f23c0568360fb1059b45c8386ed2e8e06aeeb)  
+
+---
+
+### **Information Security**  
+**Issuer:** The Open University  
+**Issued:** Jul 2023  
+**Link:** [View Certificate](https://www.open.edu/openlearn/blocks/ocwstatement/statement.php?id=2953&user=3530214&f=1)  
+
+---
+
+### **Introduction to Cybersecurity**  
+**Issuer:** Cisco Networking Academy  
+**Issued:** Jul 2023  
+**Link:** [View Certificate](https://www.credly.com/badges/cf4a22ad-e826-4e21-be68-966ba0098b86)  
+
+---
+
+### **LFC101 - Inclusive Speaker Orientation**  
+**Issuer:** The Linux Foundation  
+**Issued:** Jul 2023  
+**Credential ID:** LF-vaclwybr3f  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-a89cc65f-9f0b-43f5-a4d4-c1de27b1d949-certificate.pdf)  
+
+---
+
+### **LFC102 - Inclusive Open Source Community Orientation**  
+**Issuer:** The Linux Foundation  
+**Issued:** Jul 2023  
+**Credential ID:** LF-uhbpo8j11z  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-c7a491d1-d91a-4b18-925b-0a1d9028f03e-certificate.pdf)  
+
+---
+
+### **LFC103 - Inclusive Strategies for Open Source**  
+**Issuer:** The Linux Foundation  
+**Issued:** Jul 2023  
+**Credential ID:** LF-7sbsybz4aj  
+**Link:** [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/87689f45-cfe7-4a9c-ac39-88fc27de955b-nikhil-rasmalla-253a91c6-1320-4280-a253-e1411bd306b2-certificate.pdf)  
+
+---
+
+### **Network Security**  
+**Issuer:** The Open University  
+**Issued:** Jul 2023  
+**Link:** [View Certificate](https://www.open.edu/openlearn/blocks/ocwstatement/statement.php?id=548&user=3530214&f=1)  
+
+---
+
+### **Risk Management**  
+**Issuer:** The Open University  
+**Issued:** Jul 2023  
+**Link:** [View Certificate](https://www.open.edu/openlearn/blocks/ocwstatement/statement.php?id=4777&user=3530214&f=1)  
+
+---
+
+### **AWS Fundamentals**  
+**Issuer:** Edureka  
+**Issued:** Jun 2023  
+**Credential ID:** UHGTVPM41  
+**Link:** [View Certificate](https://www.edureka.co/certificate/629cedb920e19cef654a0c388177d3c7.jpeg?ver=647badb275c59)  
+
+---
+
+### **Android Bug Bounty Hunting**  
+**Issuer:** EC-Council Learning  
+**Issued:** Jun 2023  
+**Credential ID:** 225029  
+**Link:** [View Certificate](https://eccommonstorage.blob.core.windows.net/codered/certificates/ce415178-8b3b-43d5-bac4-561bd80b39ba.png)  
+
+---
+
+### **Cybersecurity for Businesses**  
+**Issuer:** EC-Council Learning  
+**Issued:** Jun 2023  
+**Credential ID:** 225297  
+**Link:** [View Certificate](https://eccommonstorage.blob.core.windows.net/codered/certificates/872c6e0f-0ffa-48ac-98b0-b7f2c40ce96f.png)  
+
+---
+
+### **DevOps Fundamentals**  
+**Issuer:** Edureka  
+**Issued:** Jun 2023  
+**Credential ID:** B8C7KAYR7  
+**Link:** [View Certificate](https://www.edureka.co/lms/certificate/2fce09d5c9f25158dcd849d290b245e9)  
+
+---
+
+### **Introduction to Dark Web, Anonymity, and Cryptocurrency**  
+**Issuer:** EC-Council Learning  
+**Issued:** Jun 2023  
+**Credential ID:** 22496  
+**Link:** [View Certificate](https://eccommonstorage.blob.core.windows.net/codered/certificates/07cfb2d5-5f60-4f1c-b54e-e7b0624e9ce2.png)  
+
+---
+
+### **Introduction to TypeScript**  
+**Issuer:** EC-Council Learning  
+**Issued:** Jun 2023  
+**Credential ID:** 225301  
+**Link:** [View Certificate](https://eccommonstorage.blob.core.windows.net/codered/certificates/a1c89dc1-5111-459b-af68-53b01604b86d.png)  
+
+---
+
+### **Practical Introduction to Cloud Computing**  
+**Issuer:** EC-Council Learning  
+**Issued:** Jun 2023  
+**Credential ID:** 225290  
+**Link:** [View Certificate](https://eccommonstorage.blob.core.windows.net/codered/certificates/5312a79a-c85e-46b6-877b-974970f13fa6.png)  
+
+---
+
+### **Application Security Fundamentals**  
+**Issuer:** Great Learning  
+**Issued:** May 2023  
+**Link:** [View Certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/2658967/original/Nikhil_Rasmalla20230529-70-55l5iu.jpg)  
+
+---
+
+### **Cyber Forensics Fundamentals**  
+**Issuer:** Great Learning  
+**Issued:** May 2023  
+**Link:** [View Certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/2657071/original/Nikhil_Rasmalla20230529-101-yg8rkj.jpg)  
+
+---
+
+### **Dynamic Programming Fundamentals**  
+**Issuer:** Great Learning  
+**Issued:** May 2023  
+**Link:** [View Certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/2641543/original/Nikhil_Rasmalla20230525-70-1dleib5.jpg)  
+
+---
+
+### **Programming Basics**  
+**Issuer:** Great Learning  
+**Issued:** May 2023  
+**Link:** [View Certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/2641513/original/Nikhil_Rasmalla20230525-70-18yqtsf.jpg)  
+
+---
+
+### **Programming Fundamentals**  
+**Issuer:** Great Learning  
+**Issued:** May 2023  
+**Link:** [View Certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/2640697/original/Nikhil_Rasmalla20230525-69-kyqnzd.jpg)  
+
+---
+
+### **Basics of HTML/CSS**  
+**Issuer:** Open Weaver  
+**Issued:** Apr 2023  
+**Credential ID:** 50811584242851  
+**Link:** [View Certificate](https://verified.sertifier.com/en/verify/50811584242851/)  
+
+---
+
+### **Basics of Javascript Programming**  
+**Issuer:** Open Weaver  
+**Issued:** Apr 2023  
+**Credential ID:** 25129669033136  
+**Link:** [View Certificate](https://verified.sertifier.com/en/verify/25129669033136/)  
+
+---
+
+### **Basics of Python Programming**  
+**Issuer:** Open Weaver  
+**Issued:** Apr 2023  
+**Credential ID:** 80704526368963  
+**Link:** [View Certificate](https://verified.sertifier.com/en/verify/80704526368963/)  
+
+---
+
+### **Career Crash Course: Network Engineering**  
+**Issuer:** Cybrary  
+**Issued:** Mar 2023  
+**Credential ID:** CC-76a7495d-9c77-41ce-b2ec-9f73715f912e  
+**Link:** [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-76a7495d-9c77-41ce-b2ec-9f73715f912e/view)  
+
+---
+
+### **Careers In Cybersecurity**  
+**Issuer:** Cybrary  
+**Issued:** Mar 2023  
+**Credential ID:** CC-f40ef765-7c78-4371-b51f-1998f13daccc  
+**Link:** [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-f40ef765-7c78-4371-b51f-1998f13daccc/view)  
+
+---
+
+### **Challenge: A Message Within A Message**  
+**Issuer:** Cybrary  
+**Issued:** Mar 2023  
+**Credential ID:** CC-217ef2d1-bd76-4af7-b5d9-21f7885c2eb7  
+**Link:** [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-217ef2d1-bd76-4af7-b5d9-21f7885c2eb7/view)  
+
+---
+
+### **Challenge: Chatting with ChatGPT**  
+**Issuer:** Cybrary  
+**Issued:** Mar 2023  
+**Credential ID:** CC-28345ea8-ed74-4bab-acb5-de3d28d47e9a  
+**Link:** [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-28345ea8-ed74-4bab-acb5-de3d28d47e9a/view)  
+
+---
+
+### **Challenge: Password123**  
+**Issuer:** Cybrary  
+**Issued:** Mar 2023  
+**Credential ID:** CC-12a1a3a7-18c3-46d0-a4cc-847d4196fbb3  
+**Link:** [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-12a1a3a7-18c3-46d0-a4cc-847d4196fbb3/view)  
+
+---
+
+### **Challenge: Teach a Person to Phish**  
+**Issuer:** Cybrary  
+**Issued:** Mar 2023  
+**Credential ID:** CC-3218b4f9-4181-4531-86d6-c8de51238bcb  
+**Link:** [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-3218b4f9-4181-4531-86d6-c8de51238bcb/view)  
+
+---
+
+### **End User Cyber Fundamentals**  
+**Issuer:** Cybrary  
+**Issued:** Mar 2023  
+**Credential ID:** CC-e60f4059-253f-457f-8c79-61498f8c366e  
+**Link:** [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-e60f4059-253f-457f-8c79-61498f8c366e/view)  
+
+---
+
+### **Entry-Level Cybersecurity Training**  
+**Issuer:** Cybrary  
+**Issued:** Mar 2023  
+**Credential ID:** CC-d4572eb1-3341-4b12-8ac6-5c9b1eef98d0  
+**Link:** [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-d4572eb1-3341-4b12-8ac6-5c9b1eef98d0/view)  
+
+---
+
+### **Introduction to IT & Cybersecurity**  
+**Issuer:** Cybrary  
+**Issued:** Mar 2023  
+**Credential ID:** CC-52a37408-39cb-4b77-9f6c-b3c92b660aa5  
+**Link:** [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-52a37408-39cb-4b77-9f6c-b3c92b660aa5/view)  
+
+---
+
+### **Linux Fundamentals**  
+**Issuer:** Great Learning  
+**Issued:** Mar 2023  
+**Link:** [View Certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/2331339/original/Nikhil_Rasmalla20230320-64-fu0q0h.jpg)  
+
+---
+
+### **Problem Solving (Basic)**  
+**Issuer:** HackerRank  
+**Issued:** Mar 2023  
+**Credential ID:** 2c1764d38b6a  
+**Link:** [View Certificate](https://www.hackerrank.com/certificates/2c1764d38b6a)  
+
+---
+
+### **Cloud Computing**  
+**Issuer:** NPTEL  
+**Issued:** Nov 2020  
+**Credential ID:** NPTEL20CS65S41600606  
+**Link:** [View Certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL20CS65S41600606117807)  
+
 
